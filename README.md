@@ -42,10 +42,6 @@ I am a **Full-Stack Developer** living in **Dublin, Ireland**, leveraging a back
   <img src="https://img.shields.io/badge/Unique-Skill Set-critical?style=for-the-badge&logo=sketch&logoColor=violet">
 </p> 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JWalshe86&style=flat-square&color=blue" alt="Profile Views Badge">
-</p>
-
 ### 📊 Contribution Graph
 For a detailed view of my coding activity and contributions over the past year, visit my [GitHub Contributions Graph](https://github.com/users/JWalshe86/contributions).
 
