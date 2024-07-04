@@ -1,19 +1,19 @@
-<h1 align="center">Jesse Ross - Junior Full-Stack Developer</h1>
+<h1 align="center">John Walshe - Full-Stack Developer</h1>
  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesseross001">
-    <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Ross-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/john-walshe86">
+    <img src="https://img.shields.io/badge/LinkedIn-john-walshe86-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:jesseross001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Jesse%20Ross-green?style=flat-square&logo=gmail" alt="Email Badge">
+  <a href="mailto:walshejohnnyw7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-John-Walshe-green?style=flat-square&logo=gmail" alt="Email Badge">
   </a>
 </p>
 
 ---
 
 ### 👨🏻‍💻 About Me:
-I am a **Junior Full-Stack Developer** from **Holyhead, North Wales**, leveraging a background in **Chemical Engineering and Mathematics** to build effective solutions that bridge the gap between engineering and technology. Passionate about **Python, JavaScript, and Django**, I am always eager to tackle new challenges and improve my skills. I also bring my expertise as a certified mathematics tutor into the tech world, making complex concepts accessible to all.
+I am a **Full-Stack Developer** living in **Dublin, Ireland**, leveraging a background in **Psychology and Management** to build effective solutions that bridge the gap between engineering and technology. Passionate about **Python, JavaScript, PHP and Django, Drupal**.
 
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
@@ -33,8 +33,8 @@ I am a **Junior Full-Stack Developer** from **Holyhead, North Wales**, leveragin
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseRoss001&show_icons=true&theme=algolia" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseRoss001&theme=algolia" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=JWalshe86&show_icons=true&theme=algolia" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JWalshe86&theme=algolia" width="400">
 </p>
 
 <p align="center">
@@ -43,32 +43,31 @@ I am a **Junior Full-Stack Developer** from **Holyhead, North Wales**, leveragin
 </p> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JesseRoss001&style=flat-square&color=blue" alt="Profile Views Badge">
+  <img src="https://komarev.com/ghpvc/?username=JWalshe86&style=flat-square&color=blue" alt="Profile Views Badge">
 </p>
 
 ### 📊 Contribution Graph
-For a detailed view of my coding activity and contributions over the past year, visit my [GitHub Contributions Graph](https://github.com/users/JesseRoss001/contributions).
+For a detailed view of my coding activity and contributions over the past year, visit my [GitHub Contributions Graph](https://github.com/users/JWalshe86/contributions).
 
 ### 🔄 Recent Activity Feed
-Stay updated with my most recent GitHub activity [here](https://github.com/JesseRoss001).
+Stay updated with my most recent GitHub activity [here](https://github.com/JWalshe86).
 
 ### 📚 Continuous Learning:
-- **Currently Learning**: Automation of businesses .
+- **Currently Learning**: Django, Drupal, Docker, SQL .
 - **Future Goals**: To master full-stack development and contribute to open-source more actively.
 
 ### 🤝 Connect with me:
-- **LinkedIn**: [Jesse Ross](https://www.linkedin.com/in/jesseross001)
-- **Portfolio**: [cleandesignuk.com](http://cleandesignuk.com)
-- **Email**: [jesseross001@gmail.com](mailto:jesseross001@gmail.com)
+- **LinkedIn**: [John Walshe](https://www.linkedin.com/in/john-walshe86)
+- **Email**: [walshejohnnyw7@gmail.com](mailto:walshejohnnyw7@gmail.com)
 
 ### 📺 Social Media Feed
 Follow my latest updates on professional platforms:
-- [LinkedIn Updates](https://www.linkedin.com/in/jesseross001)
+- [LinkedIn Updates](https://www.linkedin.com/in/john-walshe86)
 ---
 
 <p align="center">
   <sub>⚡ "Passionate about coding, committed to excellence and continuous learning!" ⚡</sub>
 </p>
 <p align="center">
-  <sub>Built with ❤️ by Jesse Ross. Powered by ☕ and 🎧.</sub>
+  <sub>Built by John Walshe. Powered by ☕.</sub>
 </p>
