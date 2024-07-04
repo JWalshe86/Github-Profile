@@ -1,4 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 <h1 align="center">Jesse Ross - Junior Full-Stack Developer</h1>
  
 
