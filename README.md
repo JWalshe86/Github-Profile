@@ -1,15 +1,5 @@
 <h1 align="center">John Walshe - Full-Stack Developer</h1>
  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-walshe86">
-    <img src="https://img.shields.io/badge/LinkedIn-john-walshe86-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:walshejohnnyw7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-John-Walshe-green?style=flat-square&logo=gmail" alt="Email Badge">
-  </a>
-</p>
-
 ---
 
 ### 👨🏻‍💻 About Me:
