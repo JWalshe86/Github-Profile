@@ -44,7 +44,7 @@ Stay updated with my most recent GitHub activity [here](https://github.com/JWals
 
 ### 🤝 Connect with me:
 - **LinkedIn**: [John Walshe](https://www.linkedin.com/in/john-walshe86)
-- **Email**: [walshejohnnyw7@gmail.com](mailto:jwalshedev@gmail.com)
+- **Email**: [jwalshedev@gmail.com](mailto:jwalshedev@gmail.com)
 
 ### 📺 Social Media Feed
 Follow my latest updates on professional platforms:
