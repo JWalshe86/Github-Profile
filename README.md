@@ -21,7 +21,8 @@ I am a **Full-Stack Developer** living in **Dublin, Ireland**, leveraging a back
 </p>
 
 ## Codewars
-https://www.codewars.com/users/jdizzydizzle/badges/large
+  <img src="https://www.codewars.com/users/jdizzydizzle/badges/large" width="400">
+
 
 ## 🔥 GitHub Stats
 <p align="center">
