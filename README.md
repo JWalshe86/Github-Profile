@@ -20,6 +20,8 @@ I am a **Full-Stack Developer** living in **Dublin, Ireland**, leveraging a back
   <img src="https://github-profile-trophy.vercel.app/?username=JesseRoss001&theme=algolia&column=3&margin-w=15&margin-h=15">
 </p>
 
+## Codewars
+https://www.codewars.com/users/jdizzydizzle/badges/large
 
 ## 🔥 GitHub Stats
 <p align="center">
