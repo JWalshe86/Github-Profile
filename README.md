@@ -9,7 +9,6 @@ I am a **Full-Stack Developer** living in **Dublin, Ireland**, leveraging a back
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
